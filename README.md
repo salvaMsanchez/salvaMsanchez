@@ -27,8 +27,6 @@ I define myself as a person passionate about creating digital products for mobil
 
 <div width="100%" align="center"><a href="https://github.com/salvaMsanchez/CloudiaBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salvaMsanchez&repo=CloudiaBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/salvaMsanchez/DragonBallApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salvaMsanchez&repo=DragonBallApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/salvaMsanchez/pokedex-app-mvvm" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salvaMsanchez&repo=pokedex-app-mvvm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/salvaMsanchez/fundamentos-ios-bootcamp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=salvaMsanchez&repo=fundamentos-ios-bootcamp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
