@@ -11,7 +11,7 @@ I define myself as a person passionate about creating digital products for mobil
 * ✉️  You can contact me at [hello@salvamoreno.com](mailto:hello@salvamoreno.com)
 * 🚀  I'm currently working on [Odigo as Computational Linguist](http://www.odigo.com)
 * 🧠  I'm learning Vapor (server-side Swift HTTP web framework)
-* ⚡  I love Italian food, playing football and Berlanga and Paolo Sorrentino's movies.
+* ⚡️  I love italian food, playing football, crossfit and Paolo Sorrentino's movies.
 
 ### Skills  
 
