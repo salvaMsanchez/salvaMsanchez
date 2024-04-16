@@ -8,6 +8,7 @@ I define myself as a person passionate about creating digital products for mobil
 
 * 🌍  I'm based in Granada, Spain
 * 🖥️  See my portfolio at [salvamoreno.com](http://salvamoreno.com)
+* ✍🏼  I write about topics I am passionate about at [blog.salvamoreno.com](https://blog.salvamoreno.com)
 * ✉️  You can contact me at [hello@salvamoreno.com](mailto:hello@salvamoreno.com)
 * 🚀  I'm currently working on [Odigo as Computational Linguist](http://www.odigo.com)
 * 🧠  I'm learning Vapor (server-side Swift HTTP web framework)
