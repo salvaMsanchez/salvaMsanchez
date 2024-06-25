@@ -10,8 +10,8 @@ I define myself as a person passionate about creating digital products for mobil
 * 🖥️  See my portfolio at [salvamoreno.com](http://salvamoreno.com)
 * ✍🏼  I write about topics I am passionate about at [blog.salvamoreno.com](https://blog.salvamoreno.com)
 * ✉️  You can contact me at [hello@salvamoreno.com](mailto:hello@salvamoreno.com)
-* 🚀  I'm currently working on [Odigo as Computational Linguist](http://www.odigo.com)
-* 🧠  I'm learning Vapor (server-side Swift HTTP web framework)
+* 📚  Third year student of the Computer Engineering degree at the [UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html)
+* 🧠  I'm learning 3D development (visionOS & Three.js) on my spare time 
 * ⚡️  I love italian food, playing football, crossfit and Paolo Sorrentino's movies.
 
 ### Skills  
