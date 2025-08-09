@@ -7,7 +7,7 @@ I define myself as a person passionate about creating digital products for mobil
 > Continuous, unflagging effort, persistence and determination will win - James Whitcomb Riley
 
 * 🌍  I'm based in Granada, Spain
-* 🚀  Working as a Mobile & AI Developer at [Arkana - la empresa de las Apps](https://arkana.io)
+* 🚀  Working as a Mobile & AI Developer at [ARKANA - La empresa de las Apps](https://arkana.io)
 * 🖥️  See my portfolio at [salvamoreno.com](http://salvamoreno.com)
 * ✍🏼  I write about topics I am passionate about at [blog.salvamoreno.com](https://blog.salvamoreno.com)
 * ✉️  You can contact me at [hello@salvamoreno.com](mailto:hello@salvamoreno.com)
