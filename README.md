@@ -1,19 +1,19 @@
 Hi 👋 My name is Salva Moreno 
 =============================  
-Mobile Developer 
+Mobile & AI Developer 
 ----------------  
 I define myself as a person passionate about creating digital products for mobile and web, as well as teaching, reading, writing, history and art. My broad interest in these areas has endowed me with a multifaceted perspective and an interdisciplinary approach.  
 
 > Continuous, unflagging effort, persistence and determination will win - James Whitcomb Riley
 
 * 🌍  I'm based in Granada, Spain
-* 🚀  Working as a mobile developer at [Arkana - la empresa de las Apps](https://arkana.io)
+* 🚀  Working as a Mobile & AI Developer at [Arkana - la empresa de las Apps](https://arkana.io)
 * 🖥️  See my portfolio at [salvamoreno.com](http://salvamoreno.com)
 * ✍🏼  I write about topics I am passionate about at [blog.salvamoreno.com](https://blog.salvamoreno.com)
 * ✉️  You can contact me at [hello@salvamoreno.com](mailto:hello@salvamoreno.com)
 * 📚  Third year student of the Computer Engineering degree at the [UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html)
-* 🧠  I'm learning 3D development (visionOS & Three.js) on my spare time 
-* ⚡️  I love italian food, playing football, crossfit and Berlanga's movies.
+* 🧠  Learning to design and implement MCP (Model Context Protocol) servers for AI-driven solutions
+* ⚡️  I love italian food, playing football, crossfit and Berlanga's movies
 
 ### Skills  
 
@@ -27,9 +27,11 @@ I define myself as a person passionate about creating digital products for mobil
  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="60" height="60" alt="Firebase" /></a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL" /></a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python" /></a>
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/fastapi.svg" width="60" height="60" alt="FastAPI" style="filter: invert(42%) sepia(14%) saturate(2217%) hue-rotate(135deg) brightness(93%) contrast(91%);" /></a>
  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="60" height="60" alt="Postman" /></a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" /></a> 
- <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="60" height="60" alt="Raspberry Pi" /></a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" /></a>
+ <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/openai.svg" width="60" height="60" alt="OpenAI API" /></a>
+ <a href="https://modelcontextprotocol.io/docs/getting-started/intro" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/modelcontextprotocol.svg" width="60" height="60" alt="Model Context Protocol (MCP)" /></a>
 </p>
 
  ### Socials  
