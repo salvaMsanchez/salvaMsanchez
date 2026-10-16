@@ -1,13 +1,13 @@
 # Hola 👋 Soy Salva Moreno
 
-**Desarrollador móvil y de IA** en Granada, España.
+**Desarrollador móvil e IA** en Granada, España.
 
 Creo productos digitales para móvil y web, y cada vez me centro más en integrar la IA en ellos. Fuera del código me apasionan la docencia, la lectura, la escritura, la historia y el arte, y eso me da una forma multidisciplinar de mirar los problemas.
 
-- 🚀 Desarrollador móvil y de IA en [ARKANA](https://arkana.io)
-- 🤖 Construyo productos con IA: agentes, sistemas RAG, integraciones con LLM y servidores MCP
-- 📚 Estudiante de tercero del Grado en Ingeniería Informática en la [UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html)
-- ⚡️ La comida italiana, el fútbol, el CrossFit y las películas de Berlanga
+- 🚀 Desarrollador móvil e IA en [ARKANA](https://arkana.io).
+- 🤖 Construyo productos con IA: agentes, sistemas RAG, integraciones con LLM y servidores MCP.
+- 📚 Estudiante de tercero del Grado en Ingeniería Informática en la [UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html).
+- ⚡️ La comida italiana, el fútbol, el CrossFit/running y las películas de Berlanga o Paolo Sorrentino.
 
 ### Dónde encontrarme
 
@@ -72,5 +72,4 @@ Creo productos digitales para móvil y web, y cada vez me centro más en integra
 
 <p align="left">
   <a href="https://www.linkedin.com/in/salvador-moreno-sanchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/SabanSMS"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
