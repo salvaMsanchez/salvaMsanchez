@@ -1,4 +1,4 @@
-name: Latest blog posts
+name: Últimos artículos del blog
 
 on:
   schedule:

@@ -1,28 +1,28 @@
-# Hi 👋 I'm Salva Moreno
+# Hola 👋 Soy Salva Moreno
 
-**Mobile & AI Developer** based in Granada, Spain.
+**Desarrollador móvil y de IA** en Granada, España.
 
-I build digital products for mobile and the web, and I'm increasingly focused on bringing AI into them. Outside the code I love teaching, reading, writing, history and art, which gives me a multidisciplinary way of looking at problems.
+Creo productos digitales para móvil y web, y cada vez me centro más en integrar la IA en ellos. Fuera del código me apasionan la docencia, la lectura, la escritura, la historia y el arte, y eso me da una forma multidisciplinar de mirar los problemas.
 
-- 🚀 Mobile & AI Developer at [ARKANA](https://arkana.io)
-- 🤖 Building AI products: agents, RAG pipelines, LLM integrations and MCP servers
-- 📚 Third-year Computer Engineering student at [UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html)
-- ⚡️ Italian food, football, CrossFit and Berlanga's films
+- 🚀 Desarrollador móvil y de IA en [ARKANA](https://arkana.io)
+- 🤖 Construyo productos con IA: agentes, sistemas RAG, integraciones con LLM y servidores MCP
+- 📚 Estudiante de tercero del Grado en Ingeniería Informática en la [UNED](https://www.uned.es/universidad/inicio/estudios/grados/grado-en-ingenieria-informatica.html)
+- ⚡️ La comida italiana, el fútbol, el CrossFit y las películas de Berlanga
 
-### Find me
+### Dónde encontrarme
 
 - 🖥️ Portfolio: [salvamoreno.com](https://salvamoreno.com)
-- ✍🏼 Blog (ES): [salvamoreno.com/blog](https://salvamoreno.com/blog)
+- ✍🏼 Blog: [salvamoreno.com/blog](https://salvamoreno.com/blog)
 - ✉️ Email: [hello@salvamoreno.com](mailto:hello@salvamoreno.com)
 
-### Featured projects
+### Proyectos destacados
 
-- **[Fantasy Copilot](https://salvamoreno.com/proyectos/fantasy-copilot/)**: an AI agent that recommends LaLiga Fantasy line-ups based on what analysts say on YouTube. [Code](https://github.com/salvaMsanchez/fantasy-copilot)
-- **[AI marketing campaign analysis](https://salvamoreno.com/proyectos/maih/)**: an engine that turns campaign data into a written analysis you can keep questioning through chat.
-- **[Documentation chatbot with RAG](https://salvamoreno.com/proyectos/chatbot-rag/)**: answers questions about EMMA's technical documentation instantly, without searching page by page.
-- **[EMMA mobile SDK](https://salvamoreno.com/proyectos/sdk/)**: brings analytics, push notifications and install attribution to EMMA clients' apps.
+- **[Fantasy Copilot](https://salvamoreno.com/proyectos/fantasy-copilot/)**: un agente de IA que recomienda alineaciones de LaLiga Fantasy a partir de lo que dicen los analistas en YouTube. [Código](https://github.com/salvaMsanchez/fantasy-copilot)
+- **[Análisis de campañas de marketing con IA](https://salvamoreno.com/proyectos/maih/)**: un motor que convierte los datos de las campañas en un análisis escrito y permite seguir preguntando por chat.
+- **[Chatbot de documentación con RAG](https://salvamoreno.com/proyectos/chatbot-rag/)**: responde al momento a preguntas sobre la documentación técnica de EMMA, sin tener que buscarla página a página.
+- **[SDK móvil de EMMA](https://salvamoreno.com/proyectos/sdk/)**: lleva analítica, notificaciones push y atribución de instalaciones a las aplicaciones de los clientes de EMMA.
 
-### Latest articles (ES)
+### Últimos artículos
 
 <!-- BLOG-POST-LIST:START -->
 - [Cómo aprobé Gestión de Empresas Informáticas en la UNED](https://salvamoreno.com/blog/gestion-empresas-informaticas-uned/)
@@ -31,9 +31,9 @@ I build digital products for mobile and the web, and I'm increasingly focused on
 - [Cómo elegir asignaturas en la UNED](https://salvamoreno.com/blog/que-asignaturas-elijo-uned/)
 <!-- BLOG-POST-LIST:END -->
 
-### Tech stack
+### Tecnologías
 
-**Mobile**
+**Móvil**
 
 <p align="left">
   <a href="https://developer.apple.com/swift/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="48" height="48" alt="Swift" title="Swift" /></a>
@@ -42,7 +42,7 @@ I build digital products for mobile and the web, and I'm increasingly focused on
   <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" /></a>
 </p>
 
-**AI**
+**IA**
 
 <p align="left">
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" /></a>
@@ -61,14 +61,14 @@ I build digital products for mobile and the web, and I'm increasingly focused on
   <a href="https://www.docker.com"><img src="https://cdn.simpleicons.org/docker" width="48" height="48" alt="Docker" title="Docker" /></a>
 </p>
 
-**Tools**
+**Herramientas**
 
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" /></a>
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma" /></a>
 </p>
 
-### Socials
+### Redes
 
 <p align="left">
   <a href="https://www.linkedin.com/in/salvador-moreno-sanchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
