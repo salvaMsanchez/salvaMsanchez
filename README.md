@@ -25,10 +25,10 @@ Creo productos digitales para móvil y web, y cada vez me centro más en integra
 ### Últimos artículos
 
 <!-- BLOG-POST-LIST:START -->
+- [Instrucciones ocultas en las páginas de WhatsApp y en los documentos de tu RAG](https://salvamoreno.com/blog/instrucciones-ocultas-documentos-rag/)
 - [Cómo aprobé Gestión de Empresas Informáticas en la UNED](https://salvamoreno.com/blog/gestion-empresas-informaticas-uned/)
 - [Cómo aprobé Fundamentos de Sistemas Digitales en la UNED](https://salvamoreno.com/blog/fundamentos-sistemas-digitales-uned/)
 - [Cómo aprobé Fundamentos de Programación en la UNED](https://salvamoreno.com/blog/fundamentos-programacion-uned/)
-- [Cómo elegir asignaturas en la UNED](https://salvamoreno.com/blog/que-asignaturas-elijo-uned/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tecnologías
