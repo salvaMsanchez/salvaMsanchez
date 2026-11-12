@@ -25,10 +25,10 @@ Creo productos digitales para móvil y web, y cada vez me centro más en integra
 ### Últimos artículos
 
 <!-- BLOG-POST-LIST:START -->
+- [Cuándo quitar reglas del CLAUDE.md y de la memoria de un agente](https://salvamoreno.com/blog/cuando-quitar-reglas-claude-md-memoria-agente/)
 - [Instrucciones ocultas en las páginas de WhatsApp y en los documentos de tu RAG](https://salvamoreno.com/blog/instrucciones-ocultas-documentos-rag/)
 - [Cómo aprobé Gestión de Empresas Informáticas en la UNED](https://salvamoreno.com/blog/gestion-empresas-informaticas-uned/)
 - [Cómo aprobé Fundamentos de Sistemas Digitales en la UNED](https://salvamoreno.com/blog/fundamentos-sistemas-digitales-uned/)
-- [Cómo aprobé Fundamentos de Programación en la UNED](https://salvamoreno.com/blog/fundamentos-programacion-uned/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tecnologías
